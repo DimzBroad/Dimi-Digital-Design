@@ -1,0 +1,164 @@
+/* SKELETON OVERRIDES */
+
+.container {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* My Hr Styles */
+
+.myHr1 {
+    border: 0;
+    height: 2.5px;
+    background: #0b0b0b;
+    margin-right: 80%;
+}
+
+.myHr2 {
+    border: 0;
+    height: 2.5px;
+    background: #0b0b0b;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+
+.button {
+    height:0;
+}
+
+.button:hover{
+    height: 0;
+}
+
+/* Hide On Mobile Condition*/
+
+.hide-on-mb {
+    display: none;
+}
+
+
+/* Show On Mobile Condition */
+
+.container {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+}
+
+/* Alignment Precompiled Classes */
+
+.marginAuto{
+    margin: auto;
+}
+
+.txtCenter {
+    text-align: center;
+}
+
+.cursorPointer {
+    cursor: pointer;
+}
+
+
+/* Heading Styles */
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Dosis', sans-serif;
+    font-kerning: auto;
+    font-weight: 400;
+}
+
+/* Paragraph Styles */
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+/* Button Styles */
+
+.blackBtn {
+    border: 2px solid #000000;
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.blackBtn:hover {
+    border: 2px solid #000000;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: 500; 
+}
+
+.blackBtnAlt {
+    border: 2px solid #000000;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.blackBtnAlt:hover {
+    border: 2px solid red;
+    background-color: red;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: 500; 
+}
+
+
+.whiteBtn {
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.whiteBtn:hover {
+    border: 2px solid #ffffff;
+    background-color: #ffffff;
+    color: #000000;
+    font-weight: 500;
+}
+
+/* ICON COLORS */
+
+.blackIcon {
+    color: #000000;
+}
+
+.whiteIcon {
+    color: #ffffff;
+}
+
+.behanceBlue {
+    color: #1769ff;
+}
+
+.instagramPurple {
+    color: #bc2a8d;
+}
+
+.padding-top {
+    padding-top: 50px;
+}
+
+.darkblue {
+    background-color: #11171E;
+}
+
+darkerblue {
+    background-color: #0f151c
+}
+
+
+
+
